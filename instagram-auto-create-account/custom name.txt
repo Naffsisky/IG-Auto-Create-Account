@@ -1,0 +1,4 @@
+count = 0
+while (count <=100):
+    print('"changenamehere{}",'.format(count))
+    count = count + 1
